@@ -1,0 +1,11 @@
+{
+  "name": "frontend-projects",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "sites/*"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
