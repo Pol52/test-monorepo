@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import {MockComponent} from "../../../packages/components/components/MockComponent";
+import {MockComponent} from "components/components/MockComponent.tsx";
 
 export default function Home() {
   return (
