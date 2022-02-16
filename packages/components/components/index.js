@@ -1,1 +1,0 @@
-export {MockComponent} from './MockComponent';

@@ -12,5 +12,7 @@
     "next-transpile-modules": "^9.0.0",
     "turbo": "^1.1.2"
   },
-  "packageManager": "yarn@1.22.17"
+  "scripts": {
+    "site1:build": "turbo run build --scope=site1 --include-dependencies"
+  }
 }

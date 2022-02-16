@@ -1,20 +1,18 @@
 {
-  "name": "site1",
+  "name": "@paolo/components-typescript",
   "private": true,
   "version": "1.0.0",
+  "main": "pages/index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "export": "next export"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "12.0.10",
     "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "@paolo/components-typescript": "1.0.0",
-    "@paolo/components": "1.0.0"
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
     "@types/node": "17.0.18",
